@@ -6,6 +6,6 @@
     <title>Git practice</title>
 </head>
 <body>
-    <h1>Version Two</h1>
+    <h1>Version Three</h1>
 </body>
 </html>
